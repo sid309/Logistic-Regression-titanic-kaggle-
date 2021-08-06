@@ -1,1 +1,1 @@
-# Logistic-Regression-titanic-kaggle-
+# Logistic-Regression-titanic-kaggle
